@@ -6,3 +6,5 @@ Some very important and common use electronic circuit simulations using Proteus 
 
 
 ![LM741_PWM_1](https://user-images.githubusercontent.com/78910261/227761029-56c6e4fc-89d3-4029-ab24-f558a8eb4577.png)
+
+![PWM Using 2 Transistors](https://user-images.githubusercontent.com/78910261/227763532-bb5466b3-7c7f-4ffa-be1f-e211cc608805.png)
